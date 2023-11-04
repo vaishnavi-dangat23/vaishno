@@ -1,3 +1,4 @@
 # vaishno
 this my first git repository <br>
-author- vaishnavi dangat
+author- vaishnavi dilip dangat
+
