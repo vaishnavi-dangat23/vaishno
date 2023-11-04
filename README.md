@@ -1,2 +1,3 @@
 # vaishno
-this my first git repo 
+this my first git repository
+author- vaishnavi dangat
